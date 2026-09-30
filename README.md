@@ -4,6 +4,9 @@
 
 ---
 
+## Repo link
+https://github.com/santianotanio/ECommerce-Inventory-Order-Management-System
+
 ## 📌 Project Overview
 
 The **E-Commerce Inventory & Order Management System** is a Python-based application designed to help a small online business manage its products, inventory, customer orders, order statuses, and basic business reports from one centralized system.

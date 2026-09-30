@@ -1,0 +1,45 @@
+{
+    "products": {
+        "P1001": {
+            "product_id": "P1001",
+            "name": "Wireless Mouse",
+            "category": "Electronics",
+            "price": 699.0,
+            "stock": 25,
+            "reorder_level": 5
+        },
+        "P1002": {
+            "product_id": "P1002",
+            "name": "Mechanical Keyboard",
+            "category": "Electronics",
+            "price": 2499.0,
+            "stock": 12,
+            "reorder_level": 4
+        },
+        "P1003": {
+            "product_id": "P1003",
+            "name": "USB-C Cable",
+            "category": "Accessories",
+            "price": 399.0,
+            "stock": 40,
+            "reorder_level": 10
+        },
+        "P1004": {
+            "product_id": "P1004",
+            "name": "Laptop Stand",
+            "category": "Accessories",
+            "price": 1299.0,
+            "stock": 8,
+            "reorder_level": 3
+        },
+        "P1005": {
+            "product_id": "P1005",
+            "name": "Notebook",
+            "category": "Stationery",
+            "price": 149.0,
+            "stock": 30,
+            "reorder_level": 8
+        }
+    },
+    "orders": {}
+}
